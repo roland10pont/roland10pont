@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @roland10pont
 - 👀 I’m interested in coding
-- 🌱 and I’m always learning
+- 🌱 and I’m always learning for over 50 years
 - 📫 How to reach me? google me.
 
 <!---
