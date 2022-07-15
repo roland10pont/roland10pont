@@ -1,9 +1,9 @@
-# Bio
+# Me and them
 
-- 👋 Hi, I’m @roland10pont
-- 👀 I’m interested in coding
-- 🌱 and I’m always learning
-- 📫 How to reach me? google me.
+- Hi, I’m @roland10pont
+- I’m interested in coding
+- and I’m always learning
+- How to reach me? google me.
 
 <!---
 roland10pont/roland10pont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
