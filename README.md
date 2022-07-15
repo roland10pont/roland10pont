@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roland10pont
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning git
+- 🌱 I’m always learning
 - 📫 How to reach me? google me.
 
 <!---
